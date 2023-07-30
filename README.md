@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zjyaofei2004
+- 👀 I’m interested in efficient system design. I’m currently learning Go.
+- 🌱 Software Engineering student specializing in Go. Interested in efficient system design. Ready for new challenges in the tech world.
